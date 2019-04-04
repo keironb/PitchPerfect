@@ -11,7 +11,7 @@ import AVFoundation
 
 // MARK: creating of the playback screen
 
-//MARK: These are the different buttons which will be used to control the type of sound played back
+//MARK: These are the different buttons which will be used to control the type of sound played back!
 
 class PlaySoundsViewController: UIViewController {
     
